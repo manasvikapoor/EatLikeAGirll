@@ -1,0 +1,69 @@
+html
+{
+	margin:0;
+	padding:0;
+}
+
+body
+{
+	margin:0;
+	padding:0;
+}
+
+.gyros
+{
+	margin:0;
+	padding:0;
+	font-size: 20px;
+	text-align: justify;
+	background-color:white;
+
+}
+
+.header
+{
+	width:100%;
+	height:150px;
+	background-color:blue;
+	line-height:150px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	font-size: 100px;
+	color:white;
+}
+
+#home
+{
+	font-size:20px;
+	text-align:left;
+}
+
+.bougatsa
+{
+
+	margin:0;
+	padding:0;
+	font-size: 20px;
+	text-align: justify;
+	background-color:#add8e6 ;
+
+}
+
+#gyros
+{
+	text-align: center;
+	color: black;
+	font-size:20px;
+}
+
+#bougatsa
+{
+	text-align: center;
+	color: black;
+	font-size:20px;
+	/*padding-bottom: 500px;*/
+}
+
+
+
